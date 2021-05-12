@@ -15,7 +15,9 @@ A mobile application for checking the weather for a given city.
 
 ## Presentation
 Checking the weather for the given cities
+<br />
 <img src="https://github.com/SzymonT99/weather-application/blob/master/doc/weather.gif" width="350" height="650">
 
 Protection against the lack of internet and refreshing
+<br />
 <img src="https://github.com/SzymonT99/weather-application/blob/master/doc/weather-refresh.gif" width="350" height="650">
